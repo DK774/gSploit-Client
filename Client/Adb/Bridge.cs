@@ -231,7 +231,7 @@ namespace gSploit_Client.Client.Adb
 
         public class Install
         {
-            public static void Frida()  // Checks if frida is installed on the device/emu already, if not then do so
+            public static void Ida()  
             {
 
                 AdbClient.Instance.ExecuteRemoteCommand("find 'data/local/tmp/server'", device, receiver);
