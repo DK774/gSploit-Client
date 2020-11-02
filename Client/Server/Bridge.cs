@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 //using _Frida = Frida;
 
-namespace gSploit_Client.Client.Frida
+namespace gSploit_Client.Client.Ida
 {
     public class Bridge
     {
