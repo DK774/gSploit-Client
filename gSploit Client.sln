@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gSploit Client", "gSploit Client.csproj", "{72851910-F7C7-4B9F-8897-F2F336D80587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Debug|x64.ActiveCfg = Debug|x64
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Debug|x64.Build.0 = Debug|x64
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Release|x64.ActiveCfg = Release|x64
+		{72851910-F7C7-4B9F-8897-F2F336D80587}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5340509A-E59D-476E-9AB0-5870F5B6E896}
+	EndGlobalSection
+EndGlobal
