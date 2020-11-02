@@ -1,2 +1,2 @@
 # gSploit
-A server-side hacking software for GraalOnline
+A powerful server-side hacking software for GraalOnline
