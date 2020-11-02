@@ -53,14 +53,14 @@ namespace gSploit_Client.Client
         public class Discord
         {
             public static string Username;
-            public static string ClientID = "762771976518631424";
+            public static string ClientID = "";
             public static string State;
             public static ulong UserID;
             public static string Details;
         }
         public class Auth
         {
-            public static string ConnectionString = "server=db4free.net;userid=gsprite;password=076f3bd6;database=gsprite;old guids=true;connection timeout=60;";
+            public static string ConnectionString = "";
             public static long ActLvl;
             public static ulong DiscordID;
             public static string DiscordUser;
